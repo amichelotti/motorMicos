@@ -17,6 +17,8 @@ SRCS += devMicos.cc drvMicos.cc
 # SMC hydra support
 SRCS += SMChydraDriver.cpp
 SRCS += SMChydraAxis.cpp
+SRCS += SMCPolluxDriver.cpp
+SRCS += SMCPolluxAxis.cpp
 
 # SMC corvus support
 SRCS += SMCcorvusDriver.cpp

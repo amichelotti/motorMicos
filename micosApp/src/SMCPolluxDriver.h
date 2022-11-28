@@ -9,7 +9,7 @@ USAGE...      Motor driver support for the Micos SMC Pollux controller.
 
 #include "SMCPolluxAxis.h"
 
-#define MAX_SMCPOLLUX_AXES 2
+#define MAX_SMCPOLLUX_AXES 16
 
 // Controller-specific parameters
 #define NUM_SMCPOLLUX_PARAMS 1
